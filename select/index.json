@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "シーブリーズと君の匂い",
+  "base_artist": "moon drop",
+  "createdAt": "2026-02-15T16:36:37.218285Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シーブリーズと君の匂い",
+      "artist": "moon drop",
+      "has_synced": false,
+      "path": "select/pl_01_シーブリーズと君の匂い_moon_drop.txt"
+    }
+  ]
+}
